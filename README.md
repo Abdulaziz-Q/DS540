@@ -1,4 +1,4 @@
-# DS540
+# DS540-CT!
 Critical Thinking Assignment 1 is part of DS540 (Advanced Python for Data Science) course
 
 ### CT1: Handling Dictionary Data
